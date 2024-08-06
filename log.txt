@@ -1,0 +1,630 @@
+[["21", 10], ["11", 10], ["20", 10], ["00", 10], ["22", 10], ["10", 10], ["01", 10], ["12", 10], ["02", 10]]
+
+games: 107
+time taken: 5.600933313369751 s
+time per game: 0.05235085754751045 s
+ties: 10
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 97
+added lines: 1554
+
+games: 1125
+time taken: 152.67410278320312 s
+time per game: 0.13571045769585505 s
+ties: 162
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 963
+added lines: 7503
+
+games: 4999
+time taken: 651.8097984790802 s
+time per game: 0.13038805790676264 s
+ties: 413
+guaranteed losses: 0
+times didn't learn: 63
+learning experiences: 4523
+added lines: 3432
+
+games: 49
+time taken: 11.490763425827026 s
+time per game: 0.23451694177121532 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 48
+added lines: 14
+
+games: 2804
+time taken: 533.0645320415497 s
+time per game: 0.19010876946034344 s
+ties: 108
+guaranteed losses: 0
+times didn't learn: 35
+learning experiences: 2661
+added lines: 830
+
+games: 4999
+time taken: 560.6070122718811 s
+time per game: 0.11214385916886746 s
+ties: 205
+guaranteed losses: 0
+times didn't learn: 73
+learning experiences: 4721
+added lines: 1533
+
+games: 659
+time taken: 75.98584461212158 s
+time per game: 0.1153047717938112 s
+ties: 28
+guaranteed losses: 0
+times didn't learn: 15
+learning experiences: 616
+added lines: -24099
+time per line: -0.0031530704432599518
+
+games: 503
+time taken: 81.885817527771 s
+time per game: 0.16279486586037972 s
+ties: 16
+guaranteed losses: 0
+times didn't learn: 8
+learning experiences: 479
+added lines: 129
+time per line: 0.6347737792850465
+
+games: 569
+time taken: 84.28362464904785 s
+time per game: 0.14812587811783454 s
+ties: 15
+guaranteed losses: 0
+times didn't learn: 9
+learning experiences: 545
+added lines: 102
+time per line: 0.8263100455789005
+
+games: 75
+time taken: 11.954110383987427 s
+time per game: 0.15938813845316568 s
+ties: 5
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 70
+added lines: 32
+time per line: 0.3735659494996071
+
+games: 646
+time taken: 105.82870602607727 s
+time per game: 0.16382152635615677 s
+ties: 23
+guaranteed losses: 0
+times didn't learn: 12
+learning experiences: 611
+added lines: 181
+time per line: 0.5846889835694877
+
+games: 974
+time taken: 173.47608089447021 s
+time per game: 0.178106859234569 s
+ties: 45
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 929
+added lines: 354
+time per line: 0.4900454262555656
+
+games: 7
+time taken: 53.102952003479004 s
+time per game: 7.586136000497 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 6
+added lines: 8
+time per line: 6.6378690004348755
+
+games: 829
+time taken: 181.69618678092957 s
+time per game: 0.2191751348382745 s
+ties: 79
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 750
+added lines: 1225
+time per line: 0.14832341778035066
+
+games: 0
+time taken: 0.03184962272644043 s
+games: 0
+time taken: 0.002222299575805664 s
+games: 0
+time taken: 0.00208282470703125 s
+games: 0
+time taken: 0.0032770633697509766 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 32.28327775001526 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 59.842111349105835 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 39
+time per line: 1.5344131115155342 s
+
+games: 0
+time taken: 43.71315312385559 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 47.42799687385559 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 34
+time per line: 1.3949410845251644 s
+
+games: 0
+time taken: 0.04938530921936035 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 2329.8823709487915 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+games: 0
+time taken: 16.541516304016113 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 34
+time per line: 0.48651518541223865 s
+
+games: 1
+time taken: 9.593849182128906 s
+time per game: 9.593849182128906 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 2
+learning experiences: -2
+added lines: 320
+time per line: 0.029980778694152832 s
+
+games: 2
+time taken: 5.31671404838562 s
+time per game: 2.65835702419281 s
+ties: 2
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 480
+time per line: 0.011076487600803375 s
+
+games: 0
+time taken: 0.14447832107543945 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 110
+time per line: 0.001313439282503995 s
+
+games: 1
+time taken: 0.299466609954834 s
+time per game: 0.299466609954834 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 270
+time per line: 0.001109135592425311 s
+
+games: 0
+time taken: 0.13820242881774902 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 144
+time per line: 0.000959739089012146 s
+
+games: 1
+time taken: 0.23428606986999512 s
+time per game: 0.23428606986999512 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 236
+time per line: 0.0009927375841948945 s
+
+games: 0
+time taken: 0.3228282928466797 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 120
+time per line: 0.0026902357737223306 s
+
+games: 1
+time taken: 48.526962995529175 s
+time per game: 48.526962995529175 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 270
+time per line: 0.179729492576034 s
+
+games: 0
+time taken: 47.24743986129761 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 110
+time per line: 0.429522180557251 s
+
+games: 1
+time taken: 151.86418199539185 s
+time per game: 151.86418199539185 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 1
+added lines: 198
+time per line: 0.7669908181585446 s
+
+games: 0
+time taken: 8.313812255859375 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 120
+time per line: 0.06928176879882812 s
+
+games: 0
+time taken: 0.36839818954467773 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 96
+time per line: 0.003837481141090393 s
+
+games: 0
+time taken: 0.19196200370788574 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 90
+time per line: 0.0021329111523098417 s
+
+games: 1
+time taken: 0.3531525135040283 s
+time per game: 0.3531525135040283 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 1
+added lines: 220
+time per line: 0.0016052386977455833 s
+
+games: 1
+time taken: 0.27783656120300293 s
+time per game: 0.27783656120300293 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 1
+added lines: 162
+time per line: 0.0017150405012531045 s
+
+games: 0
+time taken: 0.1671125888824463 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 90
+time per line: 0.001856806543138292 s
+
+games: 929
+time taken: 512.049831867218 s
+time per game: 0.5511838879087384 s
+ties: 108
+guaranteed losses: 0
+times didn't learn: 37
+learning experiences: 784
+added lines: 48636
+time per line: 0.010528206099745415 s
+
+games: 145
+time taken: 132.35290575027466 s
+time per game: 0.9127786603467217 s
+ties: 17
+guaranteed losses: 0
+times didn't learn: 9
+learning experiences: 119
+added lines: 4118
+time per line: 0.032140093674180345 s
+
+games: 21
+time taken: 18.567883491516113 s
+time per game: 0.884184928167434 s
+ties: 3
+guaranteed losses: 0
+times didn't learn: 1
+learning experiences: 17
+added lines: 424
+time per line: 0.04379217804602857 s
+
+games: 6
+time taken: 18.67458462715149 s
+time per game: 3.112430771191915 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 1
+learning experiences: 4
+added lines: -58280
+time per line: -0.0003204286998481724 s
+Reverted successfully
+
+games: 3
+time taken: 6.509937047958374 s
+time per game: 2.1699790159861245 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 1
+learning experiences: 2
+added lines: -58280
+time per line: -0.0001117010474941382 s
+Reverted successfully
+
+games: 5
+time taken: 5.265439510345459 s
+time per game: 1.0530879020690918 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 5
+added lines: -58280
+time per line: -9.03472805481376e-05 s
+Reverted successfully
+
+games: 9
+time taken: 9.178563833236694 s
+time per game: 1.0198404259151883 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 3
+learning experiences: 6
+added lines: 264
+time per line: 0.03476728724710869 s
+
+games: 8
+time taken: 9.28460693359375 s
+time per game: 1.1605758666992188 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 1
+learning experiences: 6
+added lines: 292
+time per line: 0.03179659908764983 s
+
+games: 9
+time taken: 85.80939602851868 s
+time per game: 9.534377336502075 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 170
+learning experiences: -162
+added lines: 366
+time per line: 0.23445190171726416 s
+
+games: 0
+time taken: 0.02730560302734375 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 0.016228675842285156 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 0.01986241340637207 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 0.3465292453765869 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 1.0992190837860107 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 0.3529701232910156 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+added lines: 0
+time per line: N/A s
+
+games: 706
+time taken: 925.4516053199768 s
+time per game: 1.3108379678753213 s
+ties: 86
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 620
+added lines: 11296
+time per line: 0.08192737299220758 s
+
+games: 167
+time taken: 261.93561577796936 s
+time per game: 1.5684767411854452 s
+ties: 23
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 144
+added lines: -70497
+time per line: -0.0037155569141661257 s
+Indented successfully
+
+games: 1
+time taken: 19.806390523910522 s
+time per game: 19.806390523910522 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 1
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 1
+time taken: 1.8414227962493896 s
+time per game: 1.8414227962493896 s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 1
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 3
+time taken: 3.300523281097412 s
+time per game: 1.1001744270324707 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 2
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 1.4350051879882812 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 3
+time taken: 5.133959054946899 s
+time per game: 1.7113196849822998 s
+ties: 1
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 2
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 0.39758777618408203 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+Indented successfully
+added lines: 0
+time per line: N/A s
+
+games: 0
+time taken: 2.348444938659668 s
+time per game: N/A s
+ties: 0
+guaranteed losses: 0
+times didn't learn: 0
+learning experiences: 0
+Indented successfully
+added lines: 0
+time per line: N/A s
+
